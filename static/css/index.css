@@ -1,0 +1,22 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+.img_heard{
+	width: 100%;
+	height: 18.75rem;
+	background-color: aqua;
+	background-image: url(../images/headTop.jpg);
+	position: relative;
+}
+.img_board{
+	height: 25px;
+	width: 25px;
+	background-color: red;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	box-shadow: aquamarine,10,10,10;
+}
